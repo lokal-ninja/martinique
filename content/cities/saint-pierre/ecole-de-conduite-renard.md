@@ -1,5 +1,5 @@
 ---
-title: "Ecole de Conduite Renard"
+title: "École de Conduite Renard"
 url: /saint-pierre/ecole-de-conduite-renard/
 shop: shop
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bellefontaine
 url: /bellefontaine/
-latitude: 14.67284
-longitude: -61.163214800000006
+latitude: 14.672853100000001
+longitude: -61.16335
 ---
