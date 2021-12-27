@@ -1,6 +1,6 @@
 ---
 title: Le Marin
 url: /le-marin/
-latitude: 14.471077800000002
-longitude: -60.870212
+latitude: 14.473
+longitude: -60.869
 ---

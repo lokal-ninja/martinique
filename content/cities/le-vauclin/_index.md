@@ -1,6 +1,6 @@
 ---
 title: LE VAUCLIN
 url: /le-vauclin/
-latitude: 
-longitude: 
+latitude: 14.539
+longitude: -60.872
 ---

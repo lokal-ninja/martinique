@@ -1,6 +1,6 @@
 ---
 title: Lamentin
 url: /lamentin/
-latitude: 
-longitude: 
+latitude: 14.614
+longitude: -60.994
 ---

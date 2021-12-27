@@ -1,6 +1,6 @@
 ---
 title: Le Lamentin
 url: /le-lamentin/
-latitude: 14.614557000000001
-longitude: -61.0018145
+latitude: 14.598
+longitude: -60.997
 ---

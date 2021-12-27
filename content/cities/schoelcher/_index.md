@@ -1,6 +1,6 @@
 ---
 title: Schœlcher
 url: /schoelcher/
-latitude: 14.6169451
-longitude: -61.10045590000001
+latitude: 14.627
+longitude: -61.103
 ---

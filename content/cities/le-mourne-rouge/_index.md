@@ -1,6 +1,6 @@
 ---
 title: Le Mourne-Rouge
 url: /le-mourne-rouge/
-latitude: 
-longitude: 
+latitude: 14.778
+longitude: -61.136
 ---

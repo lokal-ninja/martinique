@@ -1,6 +1,6 @@
 ---
 title: La Trinité
 url: /la-trinite/
-latitude: 14.7380399
-longitude: -60.9645707
+latitude: 14.74
+longitude: -60.963
 ---
