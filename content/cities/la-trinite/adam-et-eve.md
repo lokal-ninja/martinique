@@ -1,5 +1,5 @@
 ---
 title: "Adam & Eve"
-url: /la-trinite/adam-and-eve/
+url: /la-trinite/adam-et-eve/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blanc & Net"
-url: /riviere-salee/blanc-and-net/
+url: /riviere-salee/blanc-et-net/
 shop: blanchisserie
 ---
