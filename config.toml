@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/martinique"
+baseURL = "https://fr.shoogle.net/martinique/"
 languageCode = "fr"
 title = "Martinique"
 theme = "ln-base"
