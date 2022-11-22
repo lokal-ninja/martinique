@@ -1,6 +1,6 @@
 ---
 title: Le Robert
 url: /le-robert/
-latitude: 14.686
-longitude: -60.939
+latitude: 14.653
+longitude: -60.932
 ---
