@@ -1,5 +1,5 @@
 ---
 title: "Rouge"
-url: /fort-de-france/rouge-2/
+url: /fort-de-france/rouge/
 shop: vêtements
 ---
