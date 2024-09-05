@@ -1,5 +1,5 @@
 ---
 title: "Ecomax"
 url: /la-trinite/ecomax/
-shop: supermarché
+shop: Supermarkt
 ---

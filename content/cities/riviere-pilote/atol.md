@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /riviere-pilote/atol/
-shop: opticien
+shop: Optiker
 ---

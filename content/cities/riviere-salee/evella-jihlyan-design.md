@@ -1,5 +1,5 @@
 ---
 title: "Evella Jihlyan Design"
 url: /riviere-salee/evella-jihlyan-design/
-shop: fleuriste
+shop: Blumen
 ---

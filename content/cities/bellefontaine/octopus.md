@@ -1,5 +1,5 @@
 ---
 title: "Octopus"
 url: /bellefontaine/octopus/
-shop: shop
+shop: Allgemein
 ---

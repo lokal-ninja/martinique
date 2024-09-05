@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Chapentier"
 url: /basse-pointe/boulangerie-chapentier/
-shop: boulangerie
+shop: Bäckerei
 ---

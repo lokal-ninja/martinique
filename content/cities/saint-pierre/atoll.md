@@ -1,5 +1,5 @@
 ---
 title: "Atoll"
 url: /saint-pierre/atoll/
-shop: shop
+shop: Allgemein
 ---
