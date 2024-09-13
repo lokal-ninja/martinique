@@ -1,5 +1,5 @@
 ---
 title: "Boutik Foyal"
 url: /fort-de-france/boutik-foyal/
-shop: Allgemein
+shop: shop
 ---

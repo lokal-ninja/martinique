@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /le-lorrain/digicel/
-shop: Handy
+shop: téléphone portable
 ---

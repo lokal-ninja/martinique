@@ -1,5 +1,5 @@
 ---
 title: "La Galerie"
 url: /sainte-anne/la-galerie/
-shop: Andenken
+shop: cadeau
 ---

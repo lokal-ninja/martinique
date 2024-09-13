@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /le-lamentin/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

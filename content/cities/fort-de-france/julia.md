@@ -1,5 +1,5 @@
 ---
 title: "Julia"
 url: /fort-de-france/julia/
-shop: Kleidung
+shop: vêtements
 ---

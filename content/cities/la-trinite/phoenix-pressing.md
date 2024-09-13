@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Pressing"
 url: /la-trinite/phoenix-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

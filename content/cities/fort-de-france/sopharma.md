@@ -1,5 +1,5 @@
 ---
 title: "Sopharma"
 url: /fort-de-france/sopharma/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

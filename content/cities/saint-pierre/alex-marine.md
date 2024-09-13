@@ -1,5 +1,5 @@
 ---
 title: "Alex Marine"
 url: /saint-pierre/alex-marine/
-shop: Boot
+shop: bateau
 ---

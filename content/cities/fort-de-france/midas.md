@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /fort-de-france/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance"
 url: /fort-de-france/tendance/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /la-trinite/digicel/
-shop: Handy
+shop: téléphone portable
 ---

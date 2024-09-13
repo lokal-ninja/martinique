@@ -1,5 +1,5 @@
 ---
 title: "Diamant Distribution"
 url: /ducos/diamant-distribution/
-shop: Kramladen
+shop: magasin de variétés
 ---

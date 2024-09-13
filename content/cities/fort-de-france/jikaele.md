@@ -1,5 +1,5 @@
 ---
 title: "Jikaele"
 url: /fort-de-france/jikaele/
-shop: Reisebüro
+shop: agence de voyage
 ---

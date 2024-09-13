@@ -1,5 +1,5 @@
 ---
 title: "Levert"
 url: /fort-de-france/levert/
-shop: Allgemein
+shop: shop
 ---

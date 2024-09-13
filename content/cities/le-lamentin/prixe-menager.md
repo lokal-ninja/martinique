@@ -1,5 +1,5 @@
 ---
 title: "Prixe Menager"
 url: /le-lamentin/prixe-menager/
-shop: Elektronik
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top Carrosserie"
 url: /petit-bourg/top-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

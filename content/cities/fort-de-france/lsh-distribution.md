@@ -1,5 +1,5 @@
 ---
 title: "LSH Distribution"
 url: /fort-de-france/lsh-distribution/
-shop: Lebensmittel
+shop: commodité
 ---

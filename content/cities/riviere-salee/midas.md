@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /riviere-salee/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

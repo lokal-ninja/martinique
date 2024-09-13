@@ -1,5 +1,5 @@
 ---
 title: "Bonita Shop"
 url: /fort-de-france/bonita-shop/
-shop: Kleidung
+shop: vêtements
 ---

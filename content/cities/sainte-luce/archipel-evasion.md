@@ -1,5 +1,5 @@
 ---
 title: "Archipel Evasion"
 url: /sainte-luce/archipel-evasion/
-shop: Reisebüro
+shop: agence de voyage
 ---
