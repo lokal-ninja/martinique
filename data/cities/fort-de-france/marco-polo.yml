@@ -1,11 +1,11 @@
 id: 94899886
-type: way
+type: node
 latitude: 14.60475
 longitude: -61.07162
 postcode: ""
 city: Fort-de-France
-street: "Rue Victor Hugo"
-housenumber: 106
+street: Rue Victor Hugo
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

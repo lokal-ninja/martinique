@@ -1,11 +1,11 @@
 id: 94870246
-type: way
+type: node
 latitude: 14.60594
 longitude: -61.06988
 postcode: ""
 city: Fort-de-France
-street: "Rue de la République"
-housenumber: 66
+street: Rue de la République
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

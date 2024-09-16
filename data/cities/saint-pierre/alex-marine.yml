@@ -1,11 +1,11 @@
 id: 119899595
-type: way
+type: node
 latitude: 14.74237
 longitude: -61.17624
 postcode: ""
 city: Saint-Pierre
-street: "Place Felix Boisson"
-housenumber: 129
+street: Place Felix Boisson
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160145309
-type: way
+type: node
 latitude: 14.52902
 longitude: -60.98051
 postcode: ""
 city: Rivière-Salée
-street: "Rue Joinville Saint-Prix"
-housenumber: 22
+street: Rue Joinville Saint-Prix
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

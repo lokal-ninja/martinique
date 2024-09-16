@@ -1,11 +1,11 @@
 id: 94941310
-type: way
+type: node
 latitude: 14.60476
 longitude: -61.0711
 postcode: ""
 city: Fort-de-France
-street: "Rue Blénac"
-housenumber: 42
+street: Rue Blénac
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

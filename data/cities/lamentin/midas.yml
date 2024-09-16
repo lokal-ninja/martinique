@@ -1,11 +1,11 @@
 id: 96447541
-type: way
+type: node
 latitude: 14.61396
 longitude: -60.99403
 postcode: "97232"
 city: Lamentin
-street: "CC Place d'Armes"
-housenumber: 
-phone: "0596 51 80 28"
+street: CC Place d'Armes
+housenumber: ""
+phone: 0596 51 80 28
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

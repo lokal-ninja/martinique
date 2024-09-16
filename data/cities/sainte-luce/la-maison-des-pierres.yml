@@ -1,11 +1,11 @@
 id: 181169795
-type: way
+type: node
 latitude: 14.46801
 longitude: -60.92318
 postcode: ""
 city: Sainte-Luce
-street: "Rue Victor Hugo"
-housenumber: 48
+street: Rue Victor Hugo
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

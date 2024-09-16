@@ -1,11 +1,11 @@
 id: 119898655
-type: way
+type: node
 latitude: 14.73867
 longitude: -61.17645
 postcode: ""
 city: Saint-Pierre
-street: "Rue Gabriel Péri"
-housenumber: 34
+street: Rue Gabriel Péri
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

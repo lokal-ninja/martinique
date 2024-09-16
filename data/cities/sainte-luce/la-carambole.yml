@@ -1,11 +1,11 @@
 id: 181170849
-type: way
+type: node
 latitude: 14.46789
 longitude: -60.92235
 postcode: ""
 city: Sainte-Luce
-street: "Rue Schoelcher"
-housenumber: 29
+street: Rue Schoelcher
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

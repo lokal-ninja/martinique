@@ -1,11 +1,11 @@
 id: 94873211
-type: way
+type: node
 latitude: 14.60728
 longitude: -61.07252
 postcode: ""
 city: Fort-de-France
-street: "Boulevard Allegre"
-housenumber: 92
+street: Boulevard Allegre
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

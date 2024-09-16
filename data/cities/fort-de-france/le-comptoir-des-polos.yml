@@ -1,11 +1,11 @@
 id: 94894806
-type: way
+type: node
 latitude: 14.60938
 longitude: -61.0706
 postcode: ""
 city: Fort-de-France
-street: "Avenue Jean Jaurès"
-housenumber: 45
+street: Avenue Jean Jaurès
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

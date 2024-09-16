@@ -1,11 +1,11 @@
 id: 94935988
-type: way
+type: node
 latitude: 14.61431
 longitude: -61.07269
 postcode: ""
 city: Fort-de-France
-street: "Avenue Abbé Lavigne"
-housenumber: 139
+street: Avenue Abbé Lavigne
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""
