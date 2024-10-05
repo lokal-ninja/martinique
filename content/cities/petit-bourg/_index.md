@@ -1,6 +1,6 @@
 ---
 title: Petit Bourg
 url: /petit-bourg/
-latitude: 14.546
-longitude: -60.968
+latitude: 14.545
+longitude: -60.971
 ---
