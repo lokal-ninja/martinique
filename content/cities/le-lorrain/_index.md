@@ -2,5 +2,5 @@
 title: Le Lorrain
 url: /le-lorrain/
 latitude: 14.833
-longitude: -61.055
+longitude: -61.056
 ---
