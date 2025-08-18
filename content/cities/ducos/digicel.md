@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
-url: /fort-de-france/digicel/
+url: /ducos/digicel/
 shop: téléphone portable
 ---
