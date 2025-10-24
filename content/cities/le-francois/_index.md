@@ -1,6 +1,6 @@
 ---
 title: Le François
 url: /le-francois/
-latitude: 14.616
-longitude: -60.902
+latitude: 14.615
+longitude: -60.903
 ---
