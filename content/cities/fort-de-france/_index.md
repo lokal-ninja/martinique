@@ -1,6 +1,6 @@
 ---
 title: Fort-de-France
 url: /fort-de-france/
-latitude: 14.603
-longitude: -61.071
+latitude: 14.613
+longitude: -61.053
 ---
