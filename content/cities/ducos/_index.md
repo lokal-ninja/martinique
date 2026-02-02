@@ -1,6 +1,6 @@
 ---
 title: Ducos
 url: /ducos/
-latitude: 14.555
-longitude: -60.974
+latitude: 14.577
+longitude: -60.985
 ---
